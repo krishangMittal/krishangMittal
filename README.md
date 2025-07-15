@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+ Hi there, I'm Krishang 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=AI+%26+Full-Stack+Developer;UW-Madison+Student;Hackathon+Winner+%F0%9F%8F%86;Building+the+Future" alt="Typing SVG" />
