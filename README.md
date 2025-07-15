@@ -3,14 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Krishang+Mittal+%F0%9F%91%8B;Welcome+to+my+digital+realm+%F0%9F%9A%80;Full+Stack+Developer+%7C+Data+Scientist;Always+learning%2C+always+coding+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
-<!-- Animated header -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <span style="color: #A9FEF7;">Hey, I'm Krishang!</span>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
 
-<h3 align="center">🔮 The Enigma Behind the Code 🔮</h3>
 
 <!-- Profile views and followers -->
 <p align="center">
@@ -35,7 +28,6 @@ const krishang = {
     learning: ["Advanced AI/ML", "Cloud Architecture", "Quantum Computing"],
     askMeAbout: ["Python", "JavaScript", "Data Science", "Web Development"],
     funFact: "I debug code faster than I can explain why it works 🐛",
-    motto: "Code is poetry written in logic 📝"
 };
 ```
 
@@ -61,16 +53,6 @@ const krishang = {
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-</div>
-
-### 🗄️ Databases & Cloud
-<div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </div>
 
 ### 📊 Data Science & AI
