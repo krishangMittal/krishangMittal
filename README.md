@@ -40,7 +40,7 @@ Building better forecasting models • Improving bot intelligence • Contributi
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishangMittal&show_icons=true&theme=minimal&hide_border=true&include_all_commits=true)
 
-**[LinkedIn](https://linkedin.com/in/krishang-mittal)** • *[Email](mailto:krishangmittal2004@gmail.com)* • *[Portfolio](https://krishangmittal.com)*
+*[LinkedIn](https://linkedin.com/in/krishang-mittal)* • *[Email](mailto:krishangmittal2004@gmail.com)* • *[Portfolio](https://krishangmittal.com)*
 
 
 </div>
