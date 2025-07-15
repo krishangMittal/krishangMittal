@@ -1,93 +1,47 @@
-# Hi there, I'm Krishang! 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;I'm+a+passionate+developer;Building+innovative+solutions" alt="Typing SVG" />
+
+# Krishang Mittal
+
+*Building intelligent systems that matter*
+
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Currently
 
-### 📊 [Forecasting System](https://github.com/krishangMittal/Forecasting-System)
-> *Advanced time series forecasting with machine learning*
+Working on machine learning forecasting systems and intelligent automation. I believe in creating technology that solves real problems with elegant simplicity.
 
-A comprehensive forecasting system that leverages cutting-edge ML algorithms to predict future trends and patterns. Built with scalability and accuracy in mind.
+## Selected Work
 
-*Key Features:*
-- 🔮 Multiple forecasting models (ARIMA, LSTM, Prophet)
-- 📈 Interactive data visualization
-- ⚡ Real-time prediction capabilities
-- 🎯 High accuracy performance metrics
+**[Forecasting System](https://github.com/krishangMittal/Forecasting-System)**  
+Predicting the future with data
 
-*Tech Stack:* Python TensorFlow Scikit-learn Pandas Plotly
+Advanced time series forecasting using machine learning. Combines multiple algorithms to deliver accurate predictions for business and research applications.
 
----
+**[BuckyBot](https://github.com/krishangMittal/buckybot)**  
+Automation that understands
 
-### 🤖 [BuckyBot](https://github.com/krishangMittal/buckybot)
-> *Intelligent automation bot for enhanced productivity*
+Intelligent bot that handles complex tasks through natural language processing. Reduces manual work by understanding context and executing multi-step processes.
 
-An intelligent bot designed to streamline workflows and automate repetitive tasks. BuckyBot combines natural language processing with smart automation.
+## Technical Focus
 
-*Key Features:*
-- 🧠 Natural language understanding
-- 🔄 Automated task execution
-- 📱 Multi-platform integration
-- 🛡 Secure and reliable operation
+*Languages:* Python, JavaScript  
+*Domains:* Machine Learning, Natural Language Processing, Data Analysis  
+*Tools:* TensorFlow, Scikit-learn, Pandas, Docker
 
-*Tech Stack:* Python NLP API Integration Automation
+## Recent Activity
 
----
-
-## 🛠 Tech Stack & Tools
-
-<div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishangMittal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishangMittal&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishangMittal&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-## 🌟 What I'm Working On
-
-- 🔬 Exploring advanced ML techniques for time series analysis
-- 🚀 Building scalable automation solutions
-- 📚 Contributing to open-source projects
-- 🎯 Improving code quality and development practices
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishang-mittal)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  
-</div>
+Building better forecasting models • Improving bot intelligence • Contributing to open source • Exploring new ML techniques
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishangMittal&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  
-  *Thanks for visiting! ⭐ Star some repositories if you find them interesting!*
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishangMittal&show_icons=true&theme=minimal&hide_border=true&include_all_commits=true)
+
+**[LinkedIn](https://linkedin.com/in/krishang-mittal)** • *[Email](mailto:your.email@example.com)* • *[Portfolio](https://your-portfolio.com)*
+
+"Good design is as little design as possible"
+
 </div>
