@@ -2,8 +2,6 @@
 
 # Krishang Mittal
 
-*Building intelligent systems that matter*
-
 </div>
 
 ---
