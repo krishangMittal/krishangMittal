@@ -8,7 +8,7 @@
 
 ## Currently
 
-Working on machine learning forecasting systems and intelligent automation. I believe in creating technology that solves real problems with elegant simplicity.
+Working on machine learning forecasting systems and intelligent automation.
 
 ## Selected Work
 
